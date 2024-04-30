@@ -1,7 +1,8 @@
 # 🖖 Hola, Soy Efrain Arevalo (efrasss)
 
 ¡Hola! Soy Efrain Arevalo, un desarrollador web junior en crecimiento.
-![Efrain Arévalo](21004063.jpg)
+
+<img width="820" alt="github-cover" src="21004063.jpg"
 
 ## 👨‍🎓 Autor
 
