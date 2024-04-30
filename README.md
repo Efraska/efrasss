@@ -2,7 +2,7 @@
 
 ¡Hola! Soy Efrain Arevalo, un desarrollador web junior en crecimiento.
 
-<img width="820" alt="github-cover" src="21004063.jpg"
+<img width="820" alt="github-cover" src="21004063.jpg"/>
 
 ## 👨‍🎓 Autor
 
