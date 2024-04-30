@@ -9,7 +9,7 @@
 
 ## 💼 Portafolio WEB
 
-ÉchalE un vistazo a mi portafolio WEB disponible a través de este [link](https://portafoliowebefrain.netlify.app/)
+Échale un vistazo a mi portafolio WEB disponible a través de este [link](https://portafoliowebefrain.netlify.app/)
 
 ## 🎓 Tecnologías:
 
